@@ -12,7 +12,7 @@ A simple command-line expense tracker built using C++. Easily record, edit, view
 
 ## 🚀 How to Run
 1. Clone the repo:
-                  git clone https://github.com/your-username/ExpenseTracker.git
+                  git clone https://github.com/sunnyrishy/ExpenseTracker.git
 2. Compile:
                   g++ main.cpp -o ExpenseTracker
                   ./ExpenseTracker
